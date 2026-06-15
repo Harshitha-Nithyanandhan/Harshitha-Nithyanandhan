@@ -31,4 +31,4 @@ The long-term direction is building technology that's informed by how humans act
 
 ---
 
-*Coimbatore, India*
+*Based in Coimbatore, India · Studying at 42 Bangkok*
