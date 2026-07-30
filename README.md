@@ -2,7 +2,7 @@
 
 I'm a programmer and psychology student interested in where psychology meets technology.
 
-Previously studied at [42 Bangkok](https://42bangkok.com), a peer-to-peer engineering curriculum with no lectures and no shortcuts, where I completed 4.67% Level of the Common Core before moving on. Currently pursuing a B.Sc. in Psychology at O.P. Jindal Global University.
+Previously studied at [42 Bangkok](https://42bangkok.com), a peer-to-peer engineering curriculum with no lectures and no shortcuts, where I completed till 4.67% Level of the Common Core before moving on. Currently pursuing a B.Sc. in Psychology at O.P. Jindal Global University.
 
 The long-term direction is building technology that's informed by how humans actually behave.
 
